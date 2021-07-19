@@ -46,3 +46,10 @@ You can handle this... right? The planet Earth needs to know what we have found!
   3. `state`
   4. `country`
   5. `shape`
+
+## Previews
+Basic site:
+![basic_site](static/images/basic_search.png)
+
+Advanced site:
+![advanced_site](static/images/advanced_search.png)
