@@ -47,6 +47,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
   4. `country`
   5. `shape`
 
-## Previews
+## Preview
 Basic site preview:
 ![basic_site](static/images/basic_search.png)
