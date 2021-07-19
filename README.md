@@ -41,6 +41,6 @@ Is to create a dynamic table based upon UFO sightings dataset that will enable u
   4. `country`
   5. `shape`
 
-## Preview
+## Preview (Results)
 Basic site preview:
 ![basic_site](static/images/basic_search.png)
